@@ -1,4 +1,10 @@
-# vuejs-complete-guide
+#  Trade or View your Portfolio
+#  Save & Load your Data
+#  Click on 'End Day' to begin a New Day!
+
+## A project to understand vuex state management!
+
+
 
 > A Vue.js project
 
@@ -14,5 +20,3 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
